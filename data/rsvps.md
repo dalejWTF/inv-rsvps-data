@@ -5,3 +5,4 @@
 | sr-spencer-garcia | 2026-03-09 23:03:05 | Sr. Spencer y familia | Sí |
 | ing-juan-villamagua | 2026-03-09 23:09:28 | Ing. Juan Villamagua e hijo | Sí |
 | ing-gabriel-villamagua | 2026-03-10 04:48:41 | Ing. Gabriel Villamagua y esposa | Sí |
+| ing-fabricio-chamba | 2026-03-10 06:13:28 | Ing. Fabricio Chamba y familia | Sí |

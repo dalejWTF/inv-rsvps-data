@@ -7,3 +7,4 @@
 | ing-gabriel-villamagua | 2026-03-10 04:48:41 | Ing. Gabriel Villamagua y esposa | Sí |
 | ing-fabricio-chamba | 2026-03-10 06:13:28 | Ing. Fabricio Chamba y familia | Sí |
 | sra-raisha-villamagua | 2026-03-10 07:45:30 | Sra. Raisha Villamagua | Sí |
+| lic-fanny-cumbicus | 2026-03-10 10:12:24 | Lic. Fanny Cumbicus | Sí |

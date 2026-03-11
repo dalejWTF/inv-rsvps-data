@@ -349,6 +349,26 @@
                 "kids": 0,
                 "total": 0
             }
+        },
+        {
+            "id": "sr-paul-torres",
+            "nombreFamilia": "Sr. Paúl Torres y familia",
+            "telefono": "",
+            "invitados": {
+                "adult": 1,
+                "kids": 0,
+                "total": 0
+            }
+        },
+        {
+            "id": "ing-efren-villamagua",
+            "nombreFamilia": "Ing. Efrén Villamagua y familia",
+            "telefono": "",
+            "invitados": {
+                "adult": 1,
+                "kids": 0,
+                "total": 0
+            }
         }
     ]
 }

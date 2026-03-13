@@ -13,3 +13,4 @@
 | sr-jose-rodriguez | 2026-03-10 18:48:21 | Sr. José Rodriguez | Sí |
 | ing-daniel-ulloa | 2026-03-12 22:10:34 | Ing. Daniel Ulloa y esposa | Sí |
 | sr-israel-poma | 2026-03-12 22:47:05 | Sr. Israel Poma y esposa | Sí |
+| sra-monica-torres | 2026-03-13 06:58:53 | Sra. Mónica Torres e hija | Sí |

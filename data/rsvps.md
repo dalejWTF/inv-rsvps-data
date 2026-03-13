@@ -11,3 +11,4 @@
 | dra-rosario-pardo | 2026-03-10 14:03:48 | Dra. Rosario Pardo | Sí |
 | srta-ami-bravo | 2026-03-10 15:47:01 | Srta. Ami Bravo | Sí |
 | sr-jose-rodriguez | 2026-03-10 18:48:21 | Sr. José Rodriguez | Sí |
+| ing-daniel-ulloa | 2026-03-12 22:10:34 | Ing. Daniel Ulloa y esposa | Sí |

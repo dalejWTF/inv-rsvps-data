@@ -17,3 +17,4 @@
 | dra-viviana-abad | 2026-03-13 08:08:17 | Dra. Viviana Abad e hijos | Sí |
 | sr-paul-leon | 2026-03-13 15:48:37 | Sr. Paúl León y familia | Sí |
 | dr-carlos-ulloa | 2026-03-13 15:51:50 | Dr. Carlos Ulloa y esposa | Sí |
+| sra-sandra-lopez | 2026-03-13 16:02:47 | Sra. Sandra López y familia | Sí |

@@ -15,3 +15,4 @@
 | sr-israel-poma | 2026-03-12 22:47:05 | Sr. Israel Poma y esposa | Sí |
 | sra-monica-torres | 2026-03-13 06:58:53 | Sra. Mónica Torres e hija | Sí |
 | dra-viviana-abad | 2026-03-13 08:08:17 | Dra. Viviana Abad e hijos | Sí |
+| sr-paul-leon | 2026-03-13 15:48:37 | Sr. Paúl León y familia | Sí |
